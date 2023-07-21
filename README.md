@@ -1,2 +1,2 @@
 # CodeClause
-Tasks given by CodeClause
+Task given by CodeClause
